@@ -20,3 +20,4 @@ The ESP32-Cam is an IP camera, and the code I used to detect ArUco markers requi
 ![Frame 1](https://i.imgur.com/KeQDS6R.png)
 ![Frame 2](https://i.imgur.com/Uqg97Kl.png)
 ![Frame 3](https://i.imgur.com/KccRH8Z.png)
+Video demonstration: [Video](https://youtu.be/rSovJt_Q7cc)
